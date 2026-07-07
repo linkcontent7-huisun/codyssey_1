@@ -1,2 +1,5 @@
-# nhuisun-codyssey
-github 와 codyssey를 연동하기 위해 만든 Repository입니다.
+codyssey_1/
+├── README.md (목차 + 개요만)
+├── 1_모델비교보고서.md
+├── 2_시스템설계.md
+└── 3_실행로그.md (10턴 대화 전문 )
